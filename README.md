@@ -1,4 +1,4 @@
-__03. Applied Machine Learning 1__
+## 03. Applied Machine Learning 1
 
 
 Basics of machine learning with Scikit-learn:
